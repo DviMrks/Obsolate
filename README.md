@@ -1,7 +1,9 @@
 # Obsolate
-Website to search for how long a product works
+# - Website to search for how long a product works -
+# NO AI USED TO WRITE CODE, ONLY FOR SEARCH PURPOUSE
 
-Made using PHP laravel
+# Made using PHP laravel
 
-Testing the git command line changes
-
+# Changes on readme: 
+# Testing the git command line changes
+# Testing the use of branches and merge requests on git / readme fixing
